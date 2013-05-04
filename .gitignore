@@ -14,6 +14,7 @@ bin-debug/
 bin-release/
 node_modules/
 # Other files and folders
+# nodejs
 .settings/
 *swp
 *png
